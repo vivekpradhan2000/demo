@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me
+- 📫 How to reach me via instagram, my username is _vivek_pradhan_
 
 <!---
 vivekpradhan19/vivekpradhan19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
