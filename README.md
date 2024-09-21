@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @vivekpradhan19
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data analysis projects
-- 📫 How to reach me via instagram, my username is _vivek_pradhan_
+## the gihub basics
+Hey this is Vivek and I am here for a little start on the Github repository in hopes of elevating my data analytics game to a professtional level leveraging my passion towards the field.
 
-<!---
-vivekpradhan19/vivekpradhan19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- I am looking forward to projects which will compliment my portfolio for better and land me prospectful opportunities.
